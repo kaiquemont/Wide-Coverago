@@ -10,4 +10,4 @@
 
 
 <br>
-<img src="https://github.com/kaiquemont/Wide-Coverago/blob/main/desafio5/Wide%20coverago.png?raw=true"/>
+<img src="https://github.com/kaiquemont/Wide-Coverago/blob/main/img/Wide%20coverago.png?raw=true"/>
